@@ -39,7 +39,7 @@ A summary of my completed projects so far.
 | :-----: | :---------: | :------: | :---------: |
 | [CPP modules](https:/github.com/maiadegraaf/cpp) | An introduction to C++ | June 2022 | (see the project page)
 | Net Practice |  NetPractice is a general practical exercise to let you discover networking. | June 2022 | [![mgraaf's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl8kigvn400730hjwbzdxbs83/project/2608036)](https://github.com/JaeSeoKim/badge42) |
-| MiniRT |  This project is an introduction to the beautiful world of Raytracing. | September 2022 || 
+| MiniRT |  This project is an introduction to the beautiful world of Raytracing. | September 2022 |[![mgraaf's 42 miniRT Score](https://badge42.vercel.app/api/v2/cl8kigvn400730hjwbzdxbs83/project/2572377)](https://github.com/JaeSeoKim/badge42)| 
 
 ### Rank 5
 | Project | Description | Finished | Final Grade |
