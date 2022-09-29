@@ -1,7 +1,10 @@
 # CODAM-projects
 A summary of my completed projects so far.
 
-[![mgraaf's 42 stats](https://badge42.vercel.app/api/v2/cl8kigvn400730hjwbzdxbs83/stats?cursusId=21&coalitionId=58)](https://github.com/JaeSeoKim/badge42)
+<p align="center">
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl8kigvn400730hjwbzdxbs83/stats?cursusId=21&coalitionId=58" alt="mgraaf's 42 stats" /></a>
+</p>
+
 
 ## Projects:
 
